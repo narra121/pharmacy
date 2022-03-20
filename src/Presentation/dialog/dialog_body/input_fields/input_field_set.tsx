@@ -123,7 +123,7 @@ export const InputFieldSet: React.FC = (props) => {
                 marginTop: "8px",
               }}
             >
-              Save
+              Ramula
             </Button>
 
             <FormState />
