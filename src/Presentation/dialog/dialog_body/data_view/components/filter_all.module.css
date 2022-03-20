@@ -1,0 +1,15 @@
+.input {
+  background: transparent;
+  border: 1px solid transparent;
+  box-sizing: border-box;
+
+  border-radius: 4px;
+}
+.input:focus {
+  background: transparent;
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  box-shadow: inset 0px 0px 0px 1px transparent;
+  border-radius: 4px;
+  outline: none;
+}
