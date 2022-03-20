@@ -123,7 +123,11 @@ export const InputFieldSet: React.FC = (props) => {
                 marginTop: "8px",
               }}
             >
+<<<<<<< HEAD
               Ramula
+=======
+              Saved
+>>>>>>> 63cab4688cd7726ed320380b6a71c2e098802926
             </Button>
 
             <FormState />
